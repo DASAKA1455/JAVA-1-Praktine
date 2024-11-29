@@ -1,4 +1,4 @@
-## JAVA. 1 Praktinė užduotis. Ciklai
+## JAVA. 1 praktinė užduotis. Ciklai
 Parašyta programa, kuri nustato ar sugeneruotas šešiaženklis skaičius (loterijos bilietas) yra **laimingas**.
 
 Loterijos bilietas laikomas laimingu tada, **kai pirmų trijų skaičių suma yra lygi likusių trijų skaičių sumai ir skaitmenys nesikartoja**. 
